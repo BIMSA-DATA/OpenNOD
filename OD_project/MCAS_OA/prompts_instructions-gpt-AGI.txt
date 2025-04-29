@@ -1,0 +1,20 @@
+Instructions:
+Analyze the attitude expressed in the TWEET regarding the likelihood of AGI (Artificial General Intelligence) becoming a reality.
+
+- If the tweet mentions or implies AGI (including terms like Strong AI, human-level AI, etc.), classify the attitude toward its future implementation using both:
+    1) Sentiment polarity and intensity, expressed as one of the following categories:
+    {Certain, Possible, Not sure, Unlikely, Impossible}
+    2) A confidence level in your judgment: high or medium.
+- If AGI is not mentioned or implied, respond with: [NA;;NA]
+
+Output format: [Attitude;;Confidence]
+
+Refer to the following example:
+========== example starts ==========
+TWEET: AGI is Artificial General Intelligence.
+OUTPUT: [neutral;;medium]
+========== example ends ==========
+
+Now analyze the following tweet:
+TWEET:
+

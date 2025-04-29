@@ -1,0 +1,20 @@
+Instructions:
+Analyze the attitude toward Hamas expressed in the following TWEET.
+If the tweet mentions or implies Hamas (including variants like Hamás), classify the attitude using both sentiment polarity and sentiment intensity.
+Choose one of the following categories:
+{very negative, mild negative, neutral, mild positive, very positive}
+
+Also assign a confidence level to your judgment: high or medium.
+
+Use the output format: [Hamas: Attitude;;Confidence]
+
+If Hamas is not mentioned or implied, respond with: [Hamas: NA;;NA]
+
+Refer to the following example:
+========== example starts ==========
+TWEET: Hamas is a Palestinian organization.
+OUTPUT: [Hamas: neutral;;medium]
+========== example ends ==========
+
+Now analyze the following tweet:
+TWEET:
