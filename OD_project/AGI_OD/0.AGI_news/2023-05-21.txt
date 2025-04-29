@@ -1,0 +1,1 @@
+﻿In the last week of May 2023, a Statement on AI Risk is signed by Geoffrey Hinton, Sam Altman, Bill Gates, and many other prominent AI researchers and tech leaders with the following succinct message: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."

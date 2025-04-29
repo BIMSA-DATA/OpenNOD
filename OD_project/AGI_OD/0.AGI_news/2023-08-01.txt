@@ -1,0 +1,1 @@
+﻿In August, 2023, the New York Times, CNN, Reuters, the Chicago Tribune, Australian Broadcasting Corporation (ABC) and other news companies block OpenAI's GPTBot web crawler from accessing their content, while the New York Times also updates its terms of service to disallow the use of its content in large language models.
